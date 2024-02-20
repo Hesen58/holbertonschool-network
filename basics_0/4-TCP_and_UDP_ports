@@ -1,2 +1,2 @@
-#!/usr/bin/bash env
+#!/usr/bin/env bash
 netstat -l -p
