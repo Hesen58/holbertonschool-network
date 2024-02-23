@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+zor (){
+    git add .
+    git commit -m "a"
+    git push
+}
+zor
